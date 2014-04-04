@@ -1,0 +1,1 @@
+<?php echo (" Met deze tekst is les 2 afgerond."); ?>
